@@ -1,5 +1,5 @@
 
-
+//script para calcular estadísticas zonales a un dtm
 
 //cargamos el datset como variable
 var dataset = ee.Image('CGIAR/SRTM90_V4');
