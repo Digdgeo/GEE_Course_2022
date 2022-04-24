@@ -1,5 +1,5 @@
 # GEE_Course_2022
-Repositorio para el curso de Introducción a Google Earth Engine del Gabinete de Formación del CSIC, impartido por Diego García Díaz y Qiusheng Wu.
+Repositorio para el curso de Introducción a Google Earth Engine del Gabinete de Formación del CSIC, impartido por Diego García Díaz y Qiusheng Wu de forma telemática del 18 al 22 de abril de 2022.
 
 El curso se divide en 2 partes:
 
