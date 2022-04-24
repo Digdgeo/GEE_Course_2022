@@ -9,7 +9,7 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 ## Día 1
 
-[Geometries](https://github.com/Digdgeo/GEE_Course_2022/tree/main/Dia1)
+[Geometries](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia1/Geometries.js)
 
 [Basic Javascript](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia1/Geometries.js)
 
@@ -26,7 +26,7 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 [Cálculo de Índices](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia2/calculodeindices..js)
 
 [Reducer and NDWI](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia2/Reducer_NDWI.js)
-v
+
 [Detección de barcos con imágenes radar](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia2/Sentinel1_Ships.js)
 
 [Comparativa de máscaras de nubes](https://github.com/Digdgeo/GEE_Course_2022/blob/main/Dia2/LinkedClouds.js)
