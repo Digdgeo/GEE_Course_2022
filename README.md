@@ -43,7 +43,7 @@ Una primera parte de presentación de Google Earth Engine (Explorer y code-edito
 
 ![Clasificación](https://i.imgur.com/FZyEf89.jpg)
 
-
+# 2. Python:
 ## Día 4
 
 Curso Spatial Data Managment de Qiusheng Wu 
